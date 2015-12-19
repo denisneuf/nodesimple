@@ -2,6 +2,7 @@
 
 // Set up app and DB objects
 var express    = require('express');
+var path       = require('path');
 console.log("App Iniciada.");
 
 var viewfolder = process.env.OPENSHIFT_REPO_DIR;
