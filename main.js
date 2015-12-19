@@ -19,3 +19,10 @@ else
 
 }
 console.warn(viewfolder);
+
+
+app.get('/', function(req, res) {
+ response.writeHead(404, {"Content-Type": "text/plain"});
+  response.write("404 Not Found\n");
+  response.end();
+});
