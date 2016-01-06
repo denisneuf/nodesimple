@@ -51,3 +51,5 @@ para hacerlo
 y encontrar dentro de mí
 
 algo nuevo.
+
+Letra: Juan Ramón Rodríguez Cervilla, Jota
